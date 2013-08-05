@@ -4,7 +4,7 @@ the "Seven Languages in Seven Weeks" book.
 My week was Prolog.
 
 - slides exported as HTML from Keynote:
-  http://ghurrell.github.com/seven-languages-prolog-tech-talk
+  http://wincent.github.io/seven-languages-prolog-tech-talk
 - me:
   greg@causes.com
 - our website:
